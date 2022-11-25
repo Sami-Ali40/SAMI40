@@ -1,26 +1,19 @@
 <p align="center">
-    <a href="https://Sami-ali40-Sami-.github.io/"><img title="Made in pk" src="https://img.shields.io/badge/MADE%20IN-Pk-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+    <a href="https://Sami-ali40-SAMI40-.github.io/"><img title="Made in pk" src="https://img.shields.io/badge/MADE%20IN-Pk-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
-    <a href="https://Sami-ali40-Sami-.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.5-green.svg?style=flat-square"></a>
+    <a href="https://Sami-ali40-SAMI40--.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.5-green.svg?style=flat-square"></a>
 
     <h3 align="center">
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-        &nbsp; ,ggg, ,ggg,_,ggg,                               
-dP""Y8dP""Y88P""Y8b                              
-Yb, `88'  `88'  `88                              
- `"  88    88    88                              
-     88    88    88                              
-     88    88    88   ,ggg,    ,ggg,    ,gggggg, 
-     88    88    88  i8" "8i  i8" "8i   dP""""8I 
-     88    88    88  I8, ,8I  I8, ,8I  ,8'    8I 
-     88    88    Y8, `YbadP'  `YbadP' ,dP     Y8,
-     88    88    `Y8888P"Y888888P"Y8888P      `Y8
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
+        &nbsp; ,ggg, ,ggg,_,ggg,  __  __                
+ |  \/  |               
+ | \  / | ___  ___ _ __ 
+ | |\/| |/ _ \/ _ \ '__|
+ | |  | |  __/  __/ |   
+ |_|  |_|\___|\___|_|   
+                        
+                        
+
 &nbsp;
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
@@ -54,7 +47,7 @@ Yb, `88'  `88'  `88
 
         <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 
-        - Contact Me **sanikhanx855@gmail.com**
+        - Contact Me **Meershahzeba@gmail.com**
 
         <h3 align="left">Connect with me:</h3>
         <p align="left">
@@ -67,13 +60,13 @@ Yb, `88'  `88'  `88
         </p>
 
         <p>
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami&show_icons=true&locale=en&layout=compact" alt="Sami" />
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMI40&show_icons=true&locale=en&layout=compact" alt="SAMI40" />
         </p>
 
         <p>
-            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sami&show_icons=true&locale=en" alt="Sami" />
+            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMI40&show_icons=true&locale=en" alt="SAMI40" />
         </p>
 
         <p>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami&" alt="Sami" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMI40&" alt="SAMI40" />
         </p>
